@@ -1,6 +1,6 @@
 module imuslab.com/zoraxy/docs
 
-go 1.24.1
+go 1.25.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.3
@@ -11,6 +11,6 @@ require (
 
 require (
 	github.com/andybalholm/cascadia v1.3.3 // indirect
-	golang.org/x/net v0.40.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
